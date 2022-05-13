@@ -1,0 +1,1 @@
+This is the second time completing the odin recipe project after a short hiatus from going through the odin project. This should demonstrate my ability to set up a basic webpage using html only. This includes the html boilerplate, lists, images, links, while keeping everything semantically correct.
